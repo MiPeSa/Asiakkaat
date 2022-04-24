@@ -15,7 +15,7 @@
 		<tr>
 			<th colspan="2" class="oikealle">Hakusana:</th>
 			<th><input type="text" id="hakusana"></th>
-			<th class="hakunap"><input type="button" value="hae" id="hakunappi"></th>
+			<th class="hakunap"><input type="button" value="Hae" id="hakunappi"></th>
 		</tr>
 		<tr>
 			<th class="row-1 row-etunimi">Etunimi</th>
